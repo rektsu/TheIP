@@ -1,9 +1,4 @@
-//
-//  Disponibilidad.hpp
-//  
-//
-//  Created by Rafa Del pozo on 02/04/2019.
-//
+
 
 #pragma once
 
