@@ -1,9 +1,4 @@
-//
-//  Disponibilidad.cpp
-//  
-//
-//  Created by Rafa Del pozo on 02/04/2019.
-//
+
 
 #include "Disponibilidad.h"
 
