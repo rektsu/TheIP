@@ -1,9 +1,4 @@
-//
-//  Grado.cpp
-//  
-//
-//  Created by Rafa Del pozo on 02/04/2019.
-//
+
 
 #include "Grado.h"
 int Grado::nGrados = 0;
